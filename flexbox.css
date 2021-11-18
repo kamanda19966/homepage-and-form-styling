@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+}
+.gallery-img{
+    display: flex;
+    margin-left: 25px;
+    border-radius: 12px;
+}
+.image{
+    position: absolute;
+    right: 1%;
+}
